@@ -12,7 +12,7 @@ Here is my updated version of the utility that compiles with **fpc**. A slight c
 
 ### Getting Started
 
-1. Download & clone this repository: `git clone x`
+1. Download & clone this repository: `git clone https://github.com/mattseabrook/BMP2BMP.git`
 2. Build a new `trekext2` and `bmp2bmp` executables by running: `make all`
 3. Binary is located in `build/`, and the objects and other files generated from source are located in `src/`
 4. Verify `trekext2` and `bmp2bmp` exist in `build/`
